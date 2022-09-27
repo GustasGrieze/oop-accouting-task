@@ -14,3 +14,4 @@ $ git clone https://github.com/GustasGrieze/rock-paper-scissors
 # Run it by typing
 $ python main.py
 ```
+Check the generated .txt file to see your results.
