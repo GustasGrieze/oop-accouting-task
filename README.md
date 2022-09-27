@@ -1,6 +1,7 @@
 # Accounting program
 
 Make your life easier by keeping track of your yearly budget and yearly spendings.
+This program was made during the Codeacademy Python Advanced course.
 ## Installation
 
 
