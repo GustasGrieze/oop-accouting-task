@@ -1,0 +1,7 @@
+Accounting year: 2022 
+    
+Our yearly income: $150000.0,
+Our yearly expenses: $80000.0,
+Our quarterly income: $37500.0, 
+Our daily expenses: $219.18.
+
