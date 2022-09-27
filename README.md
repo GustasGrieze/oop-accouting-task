@@ -2,7 +2,7 @@
 
 Make your life easier by keeping track of your yearly budget and yearly spendings.
 
-This program was made during the Codeacademy Python Advanced course.
+This program was made during the CodeAcademy Python Advanced course.
 ## Installation
 
 
